@@ -1,8 +1,12 @@
 <!-- # Project Title -->
+# Next Medusa Ecommerce App
 
-![Project Cover Image](https://res.cloudinary.com/craigsims808/image/upload/v1708090028/articles/test/cover2_bgisyc.png)
+![Project Cover Image](cover-gh-readme.png)
 
 <!-- ## Project Description -->
+## Project Description
+
+This is an ecommerce app built using Next.js 14 and Medusa.js.
 
 <!-- ## Live Demo -->
 
@@ -14,11 +18,11 @@
 
 Clone the repo.
 ```bash
-git clone https://github.com/Marktawa/template.git
+git clone https://github.com/Marktawa/medusa-next-shop.git
 ```
 Change directory.
 ```bash
-cd template
+cd medusa-next-shop
 ```
 
 ## Author
